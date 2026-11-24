@@ -1,8 +1,8 @@
-<h2 align="center">hi, i'm descellia ✿</h2>
+<h2 align="center">hi, I'm Descellia ✿</h2>
 
 <p align="center">
-  Informatics student at Multimedia Nusantara University<br>
-  working on <b>LLM & data evaluation</b>, <b>graph machine learning</b>, and <b>web development</b>
+  Computer Science student at Multimedia Nusantara University<br>
+  working on <b>LLM & data evaluation</b>, <b> machine learning</b>, and <b>data analytics</b>
 </p>
 
 <p align="center">
