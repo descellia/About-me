@@ -1,4 +1,4 @@
-<h2 align="center">hi, I'm Descellia ✿</h2>
+<h2 align="center">Hi, I'm Descellia ✿</h2>
 
 <p align="center">
   Computer Science student at Multimedia Nusantara University<br>
