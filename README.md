@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>hi, i'm descellia ✿</h1>
+<h1>Hi, I'm Descellia ✿</h1>
 
 <p>Computer Science student · AI, machine learning & data analytics</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3200&pause=1400&color=A07CD6&center=true&vCenter=true&width=480&lines=turning+raw+data+into+meaningful+insights;evaluating+LLMs+%26+conversational+AI;exploring+graph+neural+networks;building+RAG+pipelines+that+explain+themselves" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3200&pause=1400&color=A07CD6&center=true&vCenter=true&width=480&lines=turning+raw+data+into+meaningful+insights;evaluating+LLMs+%26+conversational+AI;exploring+Artificial+intelligence;building+RAG+pipelines+that+explain+themselves" alt="Typing intro" />
 
 <br>
 
