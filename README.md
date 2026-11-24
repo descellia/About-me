@@ -52,7 +52,7 @@
 | project | what it is | stack |
 |---|---|---|
 | [**Koffnes Cafe**](https://github.com/descellia/Koffnes-Cafe) | Cafe ordering and cashier system with menu ordering, cart and checkout, inventory, daily reports, and transaction export | Laravel · Livewire · PHP |
-| [**Tixplore**](https://github.com/descellia/Tixplore) | PHP web app with full auth flow (register, login, password reset), user profiles, and task management | PHP · Tailwind CSS · MySQL |
+| [**Todora**](https://github.com/descellia/Tixplore) | Team-built task management app with accounts, profiles, categories, and a live deadline countdown | PHP · MySQL · Tailwind CSS |
 | [**Seat Management**](https://github.com/descellia/Seat-Management) | Seat booking interface for WTC with login, dashboard, and interactive seat map | HTML · CSS · JavaScript |
 
 ---
