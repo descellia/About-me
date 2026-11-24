@@ -41,7 +41,7 @@ Outside the code, organizing events and working in teams taught me how to commun
       <b>Also enjoy</b><br><br>
       ✧ Software engineering<br>
       ✧ UI/UX design<br>
-      ✧ Project coordination
+      ✧ Front end developer
     </td>
   </tr>
 </table>
